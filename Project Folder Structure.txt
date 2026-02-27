@@ -1,0 +1,8 @@
+rainfall-prediction-logistic-regression/
+│
+├── rainfall_prediction.py
+├── requirements.txt
+├── dataset.csv
+├── README.md
+└── screenshots/
+    └── confusion_matrix.png
